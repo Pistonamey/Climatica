@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/cloud.xml" value="0.1725" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/ic_n_sunny.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/iv_sunrise.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/iv_sunset.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/morning.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/n_cloud.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/n_rain.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/n_snowflake.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/n_storm.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/n_sunny.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/rain.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/snowflake.xml" value="0.2505" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/storm.xml" value="0.1725" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/drawable/sunny.xml" value="0.1725" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/layout/activity_city_weather_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ameys/StudioProjects/CLIMATICA/Climatica_01/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/drawable/close.xml" value="0.2595" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/drawable/evening.xml" value="0.2595" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2595" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/drawable/location.xml" value="0.2595" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/drawable/storm.xml" value="0.2595" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/layout/activity_city_weather_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/layout/dialog_custom_progress.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ameys/StudioProjects/Climatica_01/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
